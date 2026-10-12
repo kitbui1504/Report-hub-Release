@@ -33,3 +33,7 @@ Audit có thể tạo từ đường link, ảnh chụp màn hình hoặc Figma 
 ## Dữ liệu & quyền riêng tư
 
 Report mới mặc định lưu **cục bộ trên máy bạn**. Dữ liệu thiết kế không được gửi lên server để phân tích. Online Database là tuỳ chọn, cần license key do admin cấp (xem **Cài đặt** trong app).
+
+## Hỗ trợ
+
+Góp ý hoặc báo lỗi: dat.bui2@mservice.com.vn
